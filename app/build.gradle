@@ -26,5 +26,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'MGM.CASOTTO.App'
+    mainClass = 'it.unicam.cs.mgm.casotto.App'
 }
