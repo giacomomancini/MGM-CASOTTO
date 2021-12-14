@@ -8,11 +8,11 @@ public interface InterfaceSpiaggia {
      * imposta lo stato di un ombrellone
      * @param id_ombrellone
      */
-    void impostaStatoOmbrellone(int id_ombrellone);
+    void impostaStatoOmbrellone(Ombrellone ombrellone);
 
     void aggiungiOmbrellone();
 
-    void eliminaOmbrellone(int id_ombrellone);
+    void eliminaOmbrellone(Ombrellone ombrellone);
 
 
 

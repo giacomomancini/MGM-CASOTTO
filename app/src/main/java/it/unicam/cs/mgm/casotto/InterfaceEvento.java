@@ -6,4 +6,5 @@ public interface InterfaceEvento {
     void modifica_evento(String ID_evento);
 
     void cancella_evento(String ID_evento);
+
 }

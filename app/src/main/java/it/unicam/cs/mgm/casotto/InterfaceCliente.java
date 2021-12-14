@@ -5,14 +5,10 @@ import java.util.Date;
 public interface InterfaceCliente {
     /**
      * metodo per prenotare un ombrellone
-     * @param num_ospiti numero degli ospiti
-     * @param dataInizio data inizio prenotazione
-     * @param durata durata della prenotazione
-     * @param id_ombrellone id dell'ombrellone
      *
      * timestamp?
      */
-    void prenota_ombrellone(int num_ospiti, Date dataInizio, int durata, int id_ombrellone);
+    void prenota_ombrellone();
 
     /**
      * metodo per prenotare una zona dello chalet
