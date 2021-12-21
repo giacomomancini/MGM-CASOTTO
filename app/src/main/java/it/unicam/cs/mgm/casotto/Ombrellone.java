@@ -21,12 +21,20 @@ public class Ombrellone implements InterfaceOmbrellone {
 
     @Override
     public void modificaPrezzo(double nuovo_prezzo) {
+        this.prezzo = nuovo_prezzo;
+        //TODO modifica sul database
 
     }
 
     @Override
     public double calcolaPrezzo(int num_lettini, int num_sdraio, int num_cabine, int num_fila, int mese) {
-        return 0;
+        double modificatore_mese = 1.0;
+        if (mese == 6 || mese == 7 || mese == 9)
+            modificatore_mese = 1.5;
+        if(mese == 8)
+            modificatore_mese = 2.0;
+        double totale = (prezzo_lettino*num_lettini+prezzo_sdraio*num_sdraio+prezzo_cabine*num_cabine*(1+(0.1*num_fila))*modificatore_mese;
+        return totale;
     }
 
     @Override
@@ -35,9 +43,10 @@ public class Ombrellone implements InterfaceOmbrellone {
     }
 
     @Override
-    public void setStato(int id_ombrellone) {
+    public void setStato(Ombrellone ombrellone) {
 
     }
+
 
     @Override
     public void alternaStato() {

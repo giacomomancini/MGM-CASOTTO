@@ -2,10 +2,9 @@ package it.unicam.cs.mgm.casotto;
 
 public interface InterfaceUtente {
 
-    String getNome();
+    void registrazione();
 
-    String getCognome();
+    void login();
 
-    String getID();
 
 }

@@ -13,12 +13,6 @@ public class Spiaggia implements InterfaceSpiaggia {
     }
 
 
-
-    @Override
-    public void impostaStatoOmbrellone(Ombrellone ombrellone) {
-
-    }
-
     @Override
     public void aggiungiOmbrellone() {
 

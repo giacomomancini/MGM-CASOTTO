@@ -25,9 +25,9 @@ public interface InterfaceOmbrellone {
 
     /**
      * imposta lo stato dell'ombrellone
-     * @param id_ombrellone id dell'ombrellone
+     * @param ombrellone id dell'ombrellone
      */
-    void setStato(int id_ombrellone);
+    void setStato(Ombrellone ombrellone);
 
     /**
      * metodo che imposta lo stato di un ombrellone allo scadere di una prenotazione

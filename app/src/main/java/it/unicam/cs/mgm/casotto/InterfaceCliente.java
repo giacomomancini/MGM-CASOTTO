@@ -12,13 +12,13 @@ public interface InterfaceCliente {
 
     /**
      * metodo per prenotare una zona dello chalet
-     * @param id_zona id della zona
+     * @param zona id della zona
      * @param dataInizio data di inizio prenotazione
      * @param durata durata della prenotazione
      */
-    void prenota_zona(String id_zona, Date dataInizio, int durata);
+    void prenota_zona(Zona zona, /*Date dataInizio,*/ double durata);
 
-    void prenota_tavolo(String id_tavolo);
+    void prenota_tavolo(Tavolo tavolo);
 
     /**
      * metodo per ordinare dall'ombrellone
@@ -27,9 +27,9 @@ public interface InterfaceCliente {
 
     /**
      * metodo per iscriversi ad un'attivita
-     * @param id_evento
+     * @param evento
      */
-    void iscrizione_attivita(String id_evento);
+    void iscrizione_attivita(Evento evento);
 
     void scrivi_feedback();
 
