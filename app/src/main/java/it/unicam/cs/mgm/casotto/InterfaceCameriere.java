@@ -19,9 +19,8 @@ public interface InterfaceCameriere {
 
     /**
      * stampa l'ordine ricevuto
-     * @param Ordine
      */
-    void leggi_ordine(Ordine Ordine);
+    void leggi_ordine(Ordine ordine);
 
     /**
      * modifica lo stato dell'ordine associato ad un ombrellone (in attesa, in corso)

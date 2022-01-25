@@ -22,10 +22,11 @@ public interface InterfaceGestore {
      */
     void assumi_dipendente();
 
-    void licenzia_dipendente(Dipendente dipendente);
+    void licenzia_dipendente();
 
     void leggi_feedback();
 
+    void aggiungi_ombrellone();
     /**
      * metodo che invia un messaggio per notificare promozioni, cambio politiche...agli utenti
      */
