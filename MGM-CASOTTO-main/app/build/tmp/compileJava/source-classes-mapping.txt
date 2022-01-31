@@ -1,0 +1,78 @@
+it/unicam/cs/mgm/casotto/InterfaceFeedback.java
+ it.unicam.cs.mgm.casotto.InterfaceFeedback
+it/unicam/cs/mgm/casotto/App.java
+ it.unicam.cs.mgm.casotto.App
+it/unicam/cs/mgm/casotto/InterfaceUtente.java
+ it.unicam.cs.mgm.casotto.InterfaceUtente
+it/unicam/cs/mgm/casotto/Prodotto.java
+ it.unicam.cs.mgm.casotto.Prodotto
+it/unicam/cs/mgm/casotto/InterfaceOmbrellone.java
+ it.unicam.cs.mgm.casotto.InterfaceOmbrellone
+it/unicam/cs/mgm/casotto/Privileges.java
+ it.unicam.cs.mgm.casotto.Privileges
+it/unicam/cs/mgm/casotto/connettori/ConnettoreMessaggi.java
+ it.unicam.cs.mgm.casotto.connettori.ConnettoreMessaggi
+it/unicam/cs/mgm/casotto/Cameriere.java
+ it.unicam.cs.mgm.casotto.Cameriere
+it/unicam/cs/mgm/casotto/InterfaceGestore.java
+ it.unicam.cs.mgm.casotto.InterfaceGestore
+it/unicam/cs/mgm/casotto/Ordine.java
+ it.unicam.cs.mgm.casotto.Ordine
+it/unicam/cs/mgm/casotto/InterfaceCliente.java
+ it.unicam.cs.mgm.casotto.InterfaceCliente
+it/unicam/cs/mgm/casotto/InterfaceAddettoSpiaggia.java
+ it.unicam.cs.mgm.casotto.InterfaceAddettoSpiaggia
+it/unicam/cs/mgm/casotto/Zona.java
+ it.unicam.cs.mgm.casotto.Zona
+it/unicam/cs/mgm/casotto/Evento.java
+ it.unicam.cs.mgm.casotto.Evento
+it/unicam/cs/mgm/casotto/Spiaggia.java
+ it.unicam.cs.mgm.casotto.Spiaggia
+it/unicam/cs/mgm/casotto/Tavolo.java
+ it.unicam.cs.mgm.casotto.Tavolo
+it/unicam/cs/mgm/casotto/Messaggio.java
+ it.unicam.cs.mgm.casotto.Messaggio
+it/unicam/cs/mgm/casotto/connettori/ConnectDatabase.java
+ it.unicam.cs.mgm.casotto.connettori.ConnectDatabase
+it/unicam/cs/mgm/casotto/InterfaceDipendente.java
+ it.unicam.cs.mgm.casotto.InterfaceDipendente
+it/unicam/cs/mgm/casotto/InterfaceCameriere.java
+ it.unicam.cs.mgm.casotto.InterfaceCameriere
+it/unicam/cs/mgm/casotto/InterfaceSpiaggia.java
+ it.unicam.cs.mgm.casotto.InterfaceSpiaggia
+it/unicam/cs/mgm/casotto/connettori/ConnettoreProdotto.java
+ it.unicam.cs.mgm.casotto.connettori.ConnettoreProdotto
+it/unicam/cs/mgm/casotto/OrganizzatoreEventi.java
+ it.unicam.cs.mgm.casotto.OrganizzatoreEventi
+it/unicam/cs/mgm/casotto/InterfaceProdotto.java
+ it.unicam.cs.mgm.casotto.InterfaceProdotto
+it/unicam/cs/mgm/casotto/connettori/ConnettoreEvento.java
+ it.unicam.cs.mgm.casotto.connettori.ConnettoreEvento
+it/unicam/cs/mgm/casotto/connettori/ConnettoreOrdine.java
+ it.unicam.cs.mgm.casotto.connettori.ConnettoreOrdine
+it/unicam/cs/mgm/casotto/InterfaceOrganizzatoreEventi.java
+ it.unicam.cs.mgm.casotto.InterfaceOrganizzatoreEventi
+it/unicam/cs/mgm/casotto/Ombrellone.java
+ it.unicam.cs.mgm.casotto.Ombrellone
+it/unicam/cs/mgm/casotto/Dipendente.java
+ it.unicam.cs.mgm.casotto.Dipendente
+it/unicam/cs/mgm/casotto/InterfaceDJ.java
+ it.unicam.cs.mgm.casotto.InterfaceDJ
+it/unicam/cs/mgm/casotto/InterfaceZona.java
+ it.unicam.cs.mgm.casotto.InterfaceZona
+it/unicam/cs/mgm/casotto/InterfaceEvento.java
+ it.unicam.cs.mgm.casotto.InterfaceEvento
+it/unicam/cs/mgm/casotto/Utente.java
+ it.unicam.cs.mgm.casotto.Utente
+it/unicam/cs/mgm/casotto/Cliente.java
+ it.unicam.cs.mgm.casotto.Cliente
+it/unicam/cs/mgm/casotto/connettori/ConnettoreCliente.java
+ it.unicam.cs.mgm.casotto.connettori.ConnettoreCliente
+it/unicam/cs/mgm/casotto/connettori/ConnettoreOmbrellone.java
+ it.unicam.cs.mgm.casotto.connettori.ConnettoreOmbrellone
+it/unicam/cs/mgm/casotto/AddettoSpiaggia.java
+ it.unicam.cs.mgm.casotto.AddettoSpiaggia
+it/unicam/cs/mgm/casotto/connettori/ConnettoreUtente.java
+ it.unicam.cs.mgm.casotto.connettori.ConnettoreUtente
+it/unicam/cs/mgm/casotto/Gestore.java
+ it.unicam.cs.mgm.casotto.Gestore
